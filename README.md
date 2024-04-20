@@ -26,6 +26,6 @@ npm run dev
 
 <table>
   <tr>
-    <td><img src="https://github.com/americanoame/TechBass/assets/77306236/83664bdc-a165-4e3e-bab7-1e5a5f6bddfa"><td>
+    <td><img src="https://github.com/americanoame/React-Slider-Advertise-Card/assets/77306236/afedef7b-47a9-4ab3-8ceb-adbb17ad6be9"><td>
   </tr>
 </table>
